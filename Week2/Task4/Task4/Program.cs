@@ -40,9 +40,6 @@ namespace Task4
                 Console.WriteLine("File \"{0}\" already exists.", fileName); 
                 return;
             }
-            
-            Console.WriteLine("Press any key to exit.");
-            Console.ReadKey();
         }
           public static void CopyFile()
         {
@@ -57,19 +54,7 @@ namespace Task4
         }
            public static void DeleteFile()
         {
-            // Use a try block to catch IOExceptions, to handle the case of the file already being opened by another process
-            if (File.Exists(@"C:\Folder1\File.txt"))
-            {
-                try
-                {
-                    File.Delete(@"C:\Folder1\File.txt");
-                }
-                catch (IOException e)
-                {
-                    Console.WriteLine(e.Message);
-                    return;
-                }
-            }
+             File.Delete(@"C:\Folder1\File.txt");
         }
     }
 }
