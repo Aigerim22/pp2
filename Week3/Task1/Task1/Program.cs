@@ -109,7 +109,8 @@ namespace Task1
             }
             else
             {
-                FileStream fs = new FileStream(currentFSI.FullName, FileMode.Open, FileAccess.Read); StreamReader sr = new StreamReader(fs); //StreamReader считывает содержимое файла
+                FileStream fs = new FileStream(currentFSI.FullName, FileMode.Open, FileAccess.Read);
+                StreamReader sr = new StreamReader(fs); //StreamReader reads content of the file
                 Console.WriteLine(sr.ReadToEnd()); //console outputs the content of the file from beginning till the end
                 Console.ReadKey();
                 sr.Close();
