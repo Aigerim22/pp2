@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2", "WindowsFormsApp2\WindowsFormsApp2.csproj", "{B2243F1C-D0ED-4CDE-80F9-50F222D6B862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "animation", "animation\animation.csproj", "{10FB3367-8D34-470C-A643-E5AF79A8EEF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2243F1C-D0ED-4CDE-80F9-50F222D6B862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2243F1C-D0ED-4CDE-80F9-50F222D6B862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2243F1C-D0ED-4CDE-80F9-50F222D6B862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2243F1C-D0ED-4CDE-80F9-50F222D6B862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10FB3367-8D34-470C-A643-E5AF79A8EEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FB3367-8D34-470C-A643-E5AF79A8EEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FB3367-8D34-470C-A643-E5AF79A8EEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FB3367-8D34-470C-A643-E5AF79A8EEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A868D25-ADD5-49D0-AD6B-727B566644F1}
+	EndGlobalSection
+EndGlobal
