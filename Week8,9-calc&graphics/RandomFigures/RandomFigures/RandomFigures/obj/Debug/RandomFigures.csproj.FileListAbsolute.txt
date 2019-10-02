@@ -1,0 +1,20 @@
+C:\Users\Мейрамбек\Desktop\Новая папка\ForQuiz-3\RandomFigures\RandomFigures\bin\Debug\RandomFigures.exe.config
+C:\Users\Мейрамбек\Desktop\Новая папка\ForQuiz-3\RandomFigures\RandomFigures\bin\Debug\RandomFigures.exe
+C:\Users\Мейрамбек\Desktop\Новая папка\ForQuiz-3\RandomFigures\RandomFigures\bin\Debug\RandomFigures.pdb
+C:\Users\Мейрамбек\Desktop\Новая папка\ForQuiz-3\RandomFigures\RandomFigures\obj\Debug\RandomFigures.csprojAssemblyReference.cache
+C:\Users\Мейрамбек\Desktop\Новая папка\ForQuiz-3\RandomFigures\RandomFigures\obj\Debug\RandomFigures.Form1.resources
+C:\Users\Мейрамбек\Desktop\Новая папка\ForQuiz-3\RandomFigures\RandomFigures\obj\Debug\RandomFigures.Properties.Resources.resources
+C:\Users\Мейрамбек\Desktop\Новая папка\ForQuiz-3\RandomFigures\RandomFigures\obj\Debug\RandomFigures.csproj.GenerateResource.cache
+C:\Users\Мейрамбек\Desktop\Новая папка\ForQuiz-3\RandomFigures\RandomFigures\obj\Debug\RandomFigures.csproj.CoreCompileInputs.cache
+C:\Users\Мейрамбек\Desktop\Новая папка\ForQuiz-3\RandomFigures\RandomFigures\obj\Debug\RandomFigures.exe
+C:\Users\Мейрамбек\Desktop\Новая папка\ForQuiz-3\RandomFigures\RandomFigures\obj\Debug\RandomFigures.pdb
+C:\Users\123\Desktop\RandomFigures\RandomFigures\RandomFigures\bin\Debug\RandomFigures.exe.config
+C:\Users\123\Desktop\RandomFigures\RandomFigures\RandomFigures\bin\Debug\RandomFigures.exe
+C:\Users\123\Desktop\RandomFigures\RandomFigures\RandomFigures\bin\Debug\RandomFigures.pdb
+C:\Users\123\Desktop\RandomFigures\RandomFigures\RandomFigures\obj\Debug\RandomFigures.csprojAssemblyReference.cache
+C:\Users\123\Desktop\RandomFigures\RandomFigures\RandomFigures\obj\Debug\RandomFigures.Form1.resources
+C:\Users\123\Desktop\RandomFigures\RandomFigures\RandomFigures\obj\Debug\RandomFigures.Properties.Resources.resources
+C:\Users\123\Desktop\RandomFigures\RandomFigures\RandomFigures\obj\Debug\RandomFigures.csproj.GenerateResource.cache
+C:\Users\123\Desktop\RandomFigures\RandomFigures\RandomFigures\obj\Debug\RandomFigures.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\RandomFigures\RandomFigures\RandomFigures\obj\Debug\RandomFigures.exe
+C:\Users\123\Desktop\RandomFigures\RandomFigures\RandomFigures\obj\Debug\RandomFigures.pdb
