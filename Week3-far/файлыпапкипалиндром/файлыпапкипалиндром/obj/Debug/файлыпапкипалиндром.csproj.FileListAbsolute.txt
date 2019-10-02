@@ -1,0 +1,7 @@
+C:\Users\123\Desktop\pp2\Week3-far\файлыпапкипалиндром\файлыпапкипалиндром\bin\Debug\файлыпапкипалиндром.exe.config
+C:\Users\123\Desktop\pp2\Week3-far\файлыпапкипалиндром\файлыпапкипалиндром\bin\Debug\файлыпапкипалиндром.exe
+C:\Users\123\Desktop\pp2\Week3-far\файлыпапкипалиндром\файлыпапкипалиндром\bin\Debug\файлыпапкипалиндром.pdb
+C:\Users\123\Desktop\pp2\Week3-far\файлыпапкипалиндром\файлыпапкипалиндром\obj\Debug\файлыпапкипалиндром.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week3-far\файлыпапкипалиндром\файлыпапкипалиндром\obj\Debug\файлыпапкипалиндром.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week3-far\файлыпапкипалиндром\файлыпапкипалиндром\obj\Debug\файлыпапкипалиндром.exe
+C:\Users\123\Desktop\pp2\Week3-far\файлыпапкипалиндром\файлыпапкипалиндром\obj\Debug\файлыпапкипалиндром.pdb
