@@ -1,0 +1,14 @@
+C:\Users\123\Desktop\pp2\W1\serialization\getstudent's id\bin\Debug\getstudent's id.exe.config
+C:\Users\123\Desktop\pp2\W1\serialization\getstudent's id\bin\Debug\getstudent's id.exe
+C:\Users\123\Desktop\pp2\W1\serialization\getstudent's id\bin\Debug\getstudent's id.pdb
+C:\Users\123\Desktop\pp2\W1\serialization\getstudent's id\obj\Debug\getstudent's id.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\W1\serialization\getstudent's id\obj\Debug\getstudent's id.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\serialization\getstudent's id\obj\Debug\getstudent's id.exe
+C:\Users\123\Desktop\pp2\W1\serialization\getstudent's id\obj\Debug\getstudent's id.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\serialization\getstudent's id\bin\Debug\getstudent's id.exe.config
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\serialization\getstudent's id\bin\Debug\getstudent's id.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\serialization\getstudent's id\bin\Debug\getstudent's id.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\serialization\getstudent's id\obj\Debug\getstudent's id.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\serialization\getstudent's id\obj\Debug\getstudent's id.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\serialization\getstudent's id\obj\Debug\getstudent's id.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\serialization\getstudent's id\obj\Debug\getstudent's id.pdb

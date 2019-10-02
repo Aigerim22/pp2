@@ -1,0 +1,7 @@
+C:\Users\123\Desktop\pp2\W1\serialization\order\bin\Debug\order.exe.config
+C:\Users\123\Desktop\pp2\W1\serialization\order\bin\Debug\order.exe
+C:\Users\123\Desktop\pp2\W1\serialization\order\bin\Debug\order.pdb
+C:\Users\123\Desktop\pp2\W1\serialization\order\obj\Debug\order.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\W1\serialization\order\obj\Debug\order.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\serialization\order\obj\Debug\order.exe
+C:\Users\123\Desktop\pp2\W1\serialization\order\obj\Debug\order.pdb
