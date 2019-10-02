@@ -1,0 +1,10 @@
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomcolorsrandomdirections\bin\Debug\randomcolorsrandomdirections.exe.config
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomcolorsrandomdirections\bin\Debug\randomcolorsrandomdirections.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomcolorsrandomdirections\bin\Debug\randomcolorsrandomdirections.pdb
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomcolorsrandomdirections\obj\Debug\randomcolorsrandomdirections.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomcolorsrandomdirections\obj\Debug\randomcolorsrandomdirections.Form1.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomcolorsrandomdirections\obj\Debug\randomcolorsrandomdirections.Properties.Resources.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomcolorsrandomdirections\obj\Debug\randomcolorsrandomdirections.csproj.GenerateResource.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomcolorsrandomdirections\obj\Debug\randomcolorsrandomdirections.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomcolorsrandomdirections\obj\Debug\randomcolorsrandomdirections.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomcolorsrandomdirections\obj\Debug\randomcolorsrandomdirections.pdb

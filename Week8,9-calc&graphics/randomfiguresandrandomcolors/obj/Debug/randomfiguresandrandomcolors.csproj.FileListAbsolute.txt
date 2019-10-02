@@ -1,0 +1,10 @@
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomfiguresandrandomcolors\bin\Debug\randomfiguresandrandomcolors.exe.config
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomfiguresandrandomcolors\bin\Debug\randomfiguresandrandomcolors.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomfiguresandrandomcolors\bin\Debug\randomfiguresandrandomcolors.pdb
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomfiguresandrandomcolors\obj\Debug\randomfiguresandrandomcolors.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomfiguresandrandomcolors\obj\Debug\randomfiguresandrandomcolors.Form1.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomfiguresandrandomcolors\obj\Debug\randomfiguresandrandomcolors.Properties.Resources.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomfiguresandrandomcolors\obj\Debug\randomfiguresandrandomcolors.csproj.GenerateResource.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomfiguresandrandomcolors\obj\Debug\randomfiguresandrandomcolors.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomfiguresandrandomcolors\obj\Debug\randomfiguresandrandomcolors.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\randomfiguresandrandomcolors\obj\Debug\randomfiguresandrandomcolors.pdb

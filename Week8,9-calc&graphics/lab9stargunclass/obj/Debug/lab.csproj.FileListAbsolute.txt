@@ -1,0 +1,10 @@
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Graphics\lab9stargunclass\bin\Debug\pen.exe.config
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Graphics\lab9stargunclass\bin\Debug\pen.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Graphics\lab9stargunclass\bin\Debug\pen.pdb
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Graphics\lab9stargunclass\obj\Debug\lab.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Graphics\lab9stargunclass\obj\Debug\pen.Form1.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Graphics\lab9stargunclass\obj\Debug\pen.Properties.Resources.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Graphics\lab9stargunclass\obj\Debug\lab.csproj.GenerateResource.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Graphics\lab9stargunclass\obj\Debug\lab.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Graphics\lab9stargunclass\obj\Debug\pen.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Graphics\lab9stargunclass\obj\Debug\pen.pdb
