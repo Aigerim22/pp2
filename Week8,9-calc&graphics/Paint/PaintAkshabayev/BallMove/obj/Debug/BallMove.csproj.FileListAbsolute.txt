@@ -1,0 +1,17 @@
+C:\Users\123\Desktop\pp2\W1\BallMove\BallMove\bin\Debug\BallMove.exe.config
+C:\Users\123\Desktop\pp2\W1\BallMove\BallMove\bin\Debug\BallMove.exe
+C:\Users\123\Desktop\pp2\W1\BallMove\BallMove\bin\Debug\BallMove.pdb
+C:\Users\123\Desktop\pp2\W1\BallMove\BallMove\obj\Debug\BallMove.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\W1\BallMove\BallMove\obj\Debug\BallMove.Form1.resources
+C:\Users\123\Desktop\pp2\W1\BallMove\BallMove\obj\Debug\BallMove.Properties.Resources.resources
+C:\Users\123\Desktop\pp2\W1\BallMove\BallMove\obj\Debug\BallMove.csproj.GenerateResource.cache
+C:\Users\123\Desktop\pp2\W1\BallMove\BallMove\obj\Debug\BallMove.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\BallMove\BallMove\obj\Debug\BallMove.exe
+C:\Users\123\Desktop\pp2\W1\BallMove\BallMove\obj\Debug\BallMove.pdb
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\BallMove\BallMove\obj\Debug\BallMove.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\BallMove\BallMove\obj\Debug\BallMove.Form1.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\BallMove\BallMove\obj\Debug\BallMove.Properties.Resources.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\BallMove\BallMove\obj\Debug\BallMove.csproj.GenerateResource.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\BallMove\BallMove\obj\Debug\BallMove.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\BallMove\BallMove\obj\Debug\BallMove.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\BallMove\BallMove\obj\Debug\BallMove.pdb
