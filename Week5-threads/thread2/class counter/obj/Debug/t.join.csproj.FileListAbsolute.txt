@@ -1,0 +1,14 @@
+C:\Users\123\Desktop\pp2\W1\thread2\class counter\bin\Debug\class counter.exe.config
+C:\Users\123\Desktop\pp2\W1\thread2\class counter\bin\Debug\class counter.exe
+C:\Users\123\Desktop\pp2\W1\thread2\class counter\bin\Debug\class counter.pdb
+C:\Users\123\Desktop\pp2\W1\thread2\class counter\obj\Debug\t.join.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\W1\thread2\class counter\obj\Debug\t.join.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\thread2\class counter\obj\Debug\class counter.exe
+C:\Users\123\Desktop\pp2\W1\thread2\class counter\obj\Debug\class counter.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\class counter\bin\Debug\class counter.exe.config
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\class counter\bin\Debug\class counter.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\class counter\bin\Debug\class counter.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\class counter\obj\Debug\t.join.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\class counter\obj\Debug\t.join.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\class counter\obj\Debug\class counter.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\class counter\obj\Debug\class counter.pdb

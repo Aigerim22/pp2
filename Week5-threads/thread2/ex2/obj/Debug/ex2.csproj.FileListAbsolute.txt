@@ -1,0 +1,6 @@
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\ex2\bin\Debug\ex2.exe.config
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\ex2\bin\Debug\ex2.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\ex2\bin\Debug\ex2.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\ex2\obj\Debug\ex2.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\ex2\obj\Debug\ex2.pdb

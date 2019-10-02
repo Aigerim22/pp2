@@ -1,0 +1,7 @@
+C:\Users\123\Desktop\pp2\W1\thread2\class counter\bin\Debug\class counter.exe.config
+C:\Users\123\Desktop\pp2\W1\thread2\class counter\bin\Debug\class counter.exe
+C:\Users\123\Desktop\pp2\W1\thread2\class counter\bin\Debug\class counter.pdb
+C:\Users\123\Desktop\pp2\W1\thread2\class counter\obj\Debug\class counter.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\W1\thread2\class counter\obj\Debug\class counter.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\thread2\class counter\obj\Debug\class counter.exe
+C:\Users\123\Desktop\pp2\W1\thread2\class counter\obj\Debug\class counter.pdb
