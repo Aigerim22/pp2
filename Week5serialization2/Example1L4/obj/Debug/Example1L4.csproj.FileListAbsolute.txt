@@ -1,0 +1,14 @@
+C:\Users\123\Desktop\pp2\W1\Example1L4\Example1L4\bin\Debug\Example1L4.exe.config
+C:\Users\123\Desktop\pp2\W1\Example1L4\Example1L4\bin\Debug\Example1L4.exe
+C:\Users\123\Desktop\pp2\W1\Example1L4\Example1L4\bin\Debug\Example1L4.pdb
+C:\Users\123\Desktop\pp2\W1\Example1L4\Example1L4\obj\Debug\Example1L4.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\W1\Example1L4\Example1L4\obj\Debug\Example1L4.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\Example1L4\Example1L4\obj\Debug\Example1L4.exe
+C:\Users\123\Desktop\pp2\W1\Example1L4\Example1L4\obj\Debug\Example1L4.pdb
+C:\Users\123\Desktop\pp2\W1\serialization\Example1L4\bin\Debug\Example1L4.exe.config
+C:\Users\123\Desktop\pp2\W1\serialization\Example1L4\bin\Debug\Example1L4.exe
+C:\Users\123\Desktop\pp2\W1\serialization\Example1L4\bin\Debug\Example1L4.pdb
+C:\Users\123\Desktop\pp2\W1\serialization\Example1L4\obj\Debug\Example1L4.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\W1\serialization\Example1L4\obj\Debug\Example1L4.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\serialization\Example1L4\obj\Debug\Example1L4.exe
+C:\Users\123\Desktop\pp2\W1\serialization\Example1L4\obj\Debug\Example1L4.pdb

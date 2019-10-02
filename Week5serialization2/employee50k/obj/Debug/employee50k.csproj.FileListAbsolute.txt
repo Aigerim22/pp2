@@ -1,0 +1,7 @@
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\serialization\employee50k\bin\Debug\employee50k.exe.config
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\serialization\employee50k\bin\Debug\employee50k.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\serialization\employee50k\bin\Debug\employee50k.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\serialization\employee50k\obj\Debug\employee50k.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\serialization\employee50k\obj\Debug\employee50k.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\serialization\employee50k\obj\Debug\employee50k.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\serialization\employee50k\obj\Debug\employee50k.pdb
