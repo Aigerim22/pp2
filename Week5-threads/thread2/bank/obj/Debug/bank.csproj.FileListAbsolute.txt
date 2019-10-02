@@ -1,0 +1,7 @@
+C:\Users\123\Desktop\pp2\W1\thread2\bank\bin\Debug\bank.exe.config
+C:\Users\123\Desktop\pp2\W1\thread2\bank\bin\Debug\bank.exe
+C:\Users\123\Desktop\pp2\W1\thread2\bank\bin\Debug\bank.pdb
+C:\Users\123\Desktop\pp2\W1\thread2\bank\obj\Debug\bank.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\W1\thread2\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\thread2\bank\obj\Debug\bank.exe
+C:\Users\123\Desktop\pp2\W1\thread2\bank\obj\Debug\bank.pdb
