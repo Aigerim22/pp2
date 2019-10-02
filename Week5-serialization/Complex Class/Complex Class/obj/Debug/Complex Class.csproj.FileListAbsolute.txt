@@ -1,0 +1,7 @@
+C:\Users\123\Desktop\pp2\W1\Complex Class\Complex Class\bin\Debug\Complex Class.exe.config
+C:\Users\123\Desktop\pp2\W1\Complex Class\Complex Class\bin\Debug\Complex Class.exe
+C:\Users\123\Desktop\pp2\W1\Complex Class\Complex Class\bin\Debug\Complex Class.pdb
+C:\Users\123\Desktop\pp2\W1\Complex Class\Complex Class\obj\Debug\Complex Class.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\W1\Complex Class\Complex Class\obj\Debug\Complex Class.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\Complex Class\Complex Class\obj\Debug\Complex Class.exe
+C:\Users\123\Desktop\pp2\W1\Complex Class\Complex Class\obj\Debug\Complex Class.pdb

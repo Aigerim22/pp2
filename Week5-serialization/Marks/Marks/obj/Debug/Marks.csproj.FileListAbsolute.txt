@@ -1,0 +1,7 @@
+C:\Users\123\Desktop\pp2\W1\Marks\Marks\bin\Debug\Marks.exe.config
+C:\Users\123\Desktop\pp2\W1\Marks\Marks\bin\Debug\Marks.exe
+C:\Users\123\Desktop\pp2\W1\Marks\Marks\bin\Debug\Marks.pdb
+C:\Users\123\Desktop\pp2\W1\Marks\Marks\obj\Debug\Marks.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\W1\Marks\Marks\obj\Debug\Marks.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\Marks\Marks\obj\Debug\Marks.exe
+C:\Users\123\Desktop\pp2\W1\Marks\Marks\obj\Debug\Marks.pdb
