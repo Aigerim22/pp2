@@ -1,0 +1,7 @@
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadd\bin\Debug\threadd.exe.config
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadd\bin\Debug\threadd.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadd\bin\Debug\threadd.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadd\obj\Debug\threadd.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadd\obj\Debug\threadd.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadd\obj\Debug\threadd.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadd\obj\Debug\threadd.pdb

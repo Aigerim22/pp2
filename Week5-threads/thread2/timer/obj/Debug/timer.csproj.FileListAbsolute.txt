@@ -1,0 +1,13 @@
+C:\Users\123\Desktop\pp2\W1\thread2\timer\bin\Debug\timer.exe.config
+C:\Users\123\Desktop\pp2\W1\thread2\timer\bin\Debug\timer.exe
+C:\Users\123\Desktop\pp2\W1\thread2\timer\bin\Debug\timer.pdb
+C:\Users\123\Desktop\pp2\W1\thread2\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\thread2\timer\obj\Debug\timer.exe
+C:\Users\123\Desktop\pp2\W1\thread2\timer\obj\Debug\timer.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\timer\bin\Debug\timer.exe.config
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\timer\bin\Debug\timer.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\timer\bin\Debug\timer.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\timer\obj\Debug\timer.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\timer\obj\Debug\timer.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\timer\obj\Debug\timer.pdb

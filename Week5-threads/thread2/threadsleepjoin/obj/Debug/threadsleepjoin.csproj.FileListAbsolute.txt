@@ -1,0 +1,14 @@
+C:\Users\123\Desktop\pp2\W1\thread2\threadsleepjoin\bin\Debug\threadsleepjoin.exe.config
+C:\Users\123\Desktop\pp2\W1\thread2\threadsleepjoin\bin\Debug\threadsleepjoin.exe
+C:\Users\123\Desktop\pp2\W1\thread2\threadsleepjoin\bin\Debug\threadsleepjoin.pdb
+C:\Users\123\Desktop\pp2\W1\thread2\threadsleepjoin\obj\Debug\threadsleepjoin.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\W1\thread2\threadsleepjoin\obj\Debug\threadsleepjoin.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\thread2\threadsleepjoin\obj\Debug\threadsleepjoin.exe
+C:\Users\123\Desktop\pp2\W1\thread2\threadsleepjoin\obj\Debug\threadsleepjoin.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadsleepjoin\bin\Debug\threadsleepjoin.exe.config
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadsleepjoin\bin\Debug\threadsleepjoin.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadsleepjoin\bin\Debug\threadsleepjoin.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadsleepjoin\obj\Debug\threadsleepjoin.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadsleepjoin\obj\Debug\threadsleepjoin.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadsleepjoin\obj\Debug\threadsleepjoin.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadsleepjoin\obj\Debug\threadsleepjoin.pdb
