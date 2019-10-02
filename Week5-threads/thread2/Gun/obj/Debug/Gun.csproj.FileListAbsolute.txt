@@ -1,0 +1,7 @@
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\Gun\bin\Debug\Gun.exe.config
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\Gun\bin\Debug\Gun.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\Gun\bin\Debug\Gun.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\Gun\obj\Debug\Gun.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\Gun\obj\Debug\Gun.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\Gun\obj\Debug\Gun.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\Gun\obj\Debug\Gun.pdb

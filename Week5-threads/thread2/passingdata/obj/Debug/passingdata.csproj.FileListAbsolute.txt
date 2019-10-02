@@ -1,0 +1,13 @@
+C:\Users\123\Desktop\pp2\W1\thread2\passingdata\bin\Debug\passingdata.exe.config
+C:\Users\123\Desktop\pp2\W1\thread2\passingdata\bin\Debug\passingdata.exe
+C:\Users\123\Desktop\pp2\W1\thread2\passingdata\bin\Debug\passingdata.pdb
+C:\Users\123\Desktop\pp2\W1\thread2\passingdata\obj\Debug\passingdata.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\thread2\passingdata\obj\Debug\passingdata.exe
+C:\Users\123\Desktop\pp2\W1\thread2\passingdata\obj\Debug\passingdata.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\passingdata\bin\Debug\passingdata.exe.config
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\passingdata\bin\Debug\passingdata.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\passingdata\bin\Debug\passingdata.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\passingdata\obj\Debug\passingdata.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\passingdata\obj\Debug\passingdata.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\passingdata\obj\Debug\passingdata.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\passingdata\obj\Debug\passingdata.pdb
