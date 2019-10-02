@@ -1,0 +1,10 @@
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\carmovesback\bin\Debug\carmovesback.exe.config
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\carmovesback\bin\Debug\carmovesback.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\carmovesback\bin\Debug\carmovesback.pdb
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\carmovesback\obj\Debug\carmovesback.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\carmovesback\obj\Debug\carmovesback.Form1.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\carmovesback\obj\Debug\carmovesback.Properties.Resources.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\carmovesback\obj\Debug\carmovesback.csproj.GenerateResource.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\carmovesback\obj\Debug\carmovesback.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\carmovesback\obj\Debug\carmovesback.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\carmovesback\obj\Debug\carmovesback.pdb

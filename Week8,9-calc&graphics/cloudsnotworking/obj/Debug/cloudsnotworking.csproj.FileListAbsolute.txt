@@ -1,0 +1,9 @@
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Example\Example3\bin\Debug\Example3.exe.config
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Example\Example3\bin\Debug\Example3.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Example\Example3\bin\Debug\Example3.pdb
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Example\Example3\obj\Debug\Example3.Form1.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Example\Example3\obj\Debug\Example3.Properties.Resources.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Example\Example3\obj\Debug\cloudsnotworking.csproj.GenerateResource.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Example\Example3\obj\Debug\cloudsnotworking.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Example\Example3\obj\Debug\Example3.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\Example\Example3\obj\Debug\Example3.pdb

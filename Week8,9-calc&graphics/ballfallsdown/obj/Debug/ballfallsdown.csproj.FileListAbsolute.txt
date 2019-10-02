@@ -1,0 +1,10 @@
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\ballfallsdown\bin\Debug\ballfallsdown.exe.config
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\ballfallsdown\bin\Debug\ballfallsdown.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\ballfallsdown\bin\Debug\ballfallsdown.pdb
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\ballfallsdown\obj\Debug\ballfallsdown.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\ballfallsdown\obj\Debug\ballfallsdown.Form1.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\ballfallsdown\obj\Debug\ballfallsdown.Properties.Resources.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\ballfallsdown\obj\Debug\ballfallsdown.csproj.GenerateResource.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\ballfallsdown\obj\Debug\ballfallsdown.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\ballfallsdown\obj\Debug\ballfallsdown.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\ballfallsdown\obj\Debug\ballfallsdown.pdb

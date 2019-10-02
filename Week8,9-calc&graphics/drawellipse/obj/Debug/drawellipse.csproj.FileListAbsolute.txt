@@ -1,0 +1,10 @@
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\drawellipse\bin\Debug\drawellipse.exe.config
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\drawellipse\bin\Debug\drawellipse.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\drawellipse\bin\Debug\drawellipse.pdb
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\drawellipse\obj\Debug\drawellipse.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\drawellipse\obj\Debug\drawellipse.Form1.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\drawellipse\obj\Debug\drawellipse.Properties.Resources.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\drawellipse\obj\Debug\drawellipse.csproj.GenerateResource.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\drawellipse\obj\Debug\drawellipse.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\drawellipse\obj\Debug\drawellipse.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\drawellipse\obj\Debug\drawellipse.pdb
