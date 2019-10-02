@@ -1,0 +1,6 @@
+C:\Users\123\Desktop\pp2\W1\thread2\thread3\bin\Debug\thread3.exe.config
+C:\Users\123\Desktop\pp2\W1\thread2\thread3\bin\Debug\thread3.exe
+C:\Users\123\Desktop\pp2\W1\thread2\thread3\bin\Debug\thread3.pdb
+C:\Users\123\Desktop\pp2\W1\thread2\thread3\obj\Debug\thread3.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\thread2\thread3\obj\Debug\thread3.exe
+C:\Users\123\Desktop\pp2\W1\thread2\thread3\obj\Debug\thread3.pdb

@@ -1,0 +1,14 @@
+C:\Users\123\Desktop\pp2\W1\thread2\threadabort\bin\Debug\threadabort.exe.config
+C:\Users\123\Desktop\pp2\W1\thread2\threadabort\bin\Debug\threadabort.exe
+C:\Users\123\Desktop\pp2\W1\thread2\threadabort\bin\Debug\threadabort.pdb
+C:\Users\123\Desktop\pp2\W1\thread2\threadabort\obj\Debug\threadabort.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\W1\thread2\threadabort\obj\Debug\threadabort.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\thread2\threadabort\obj\Debug\threadabort.exe
+C:\Users\123\Desktop\pp2\W1\thread2\threadabort\obj\Debug\threadabort.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadabort\bin\Debug\threadabort.exe.config
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadabort\bin\Debug\threadabort.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadabort\bin\Debug\threadabort.pdb
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadabort\obj\Debug\threadabort.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadabort\obj\Debug\threadabort.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadabort\obj\Debug\threadabort.exe
+C:\Users\123\Desktop\pp2\Week5-serialization&threads\thread2\threadabort\obj\Debug\threadabort.pdb

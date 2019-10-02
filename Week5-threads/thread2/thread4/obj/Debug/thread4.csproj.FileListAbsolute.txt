@@ -1,0 +1,7 @@
+C:\Users\123\Desktop\pp2\W1\thread2\thread4\bin\Debug\thread4.exe.config
+C:\Users\123\Desktop\pp2\W1\thread2\thread4\bin\Debug\thread4.exe
+C:\Users\123\Desktop\pp2\W1\thread2\thread4\bin\Debug\thread4.pdb
+C:\Users\123\Desktop\pp2\W1\thread2\thread4\obj\Debug\thread4.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\W1\thread2\thread4\obj\Debug\thread4.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\thread2\thread4\obj\Debug\thread4.exe
+C:\Users\123\Desktop\pp2\W1\thread2\thread4\obj\Debug\thread4.pdb

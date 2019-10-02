@@ -1,0 +1,7 @@
+C:\Users\123\Desktop\pp2\W1\thread2\thread2\bin\Debug\thread2.exe.config
+C:\Users\123\Desktop\pp2\W1\thread2\thread2\bin\Debug\thread2.exe
+C:\Users\123\Desktop\pp2\W1\thread2\thread2\bin\Debug\thread2.pdb
+C:\Users\123\Desktop\pp2\W1\thread2\thread2\obj\Debug\thread2.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\W1\thread2\thread2\obj\Debug\thread2.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\thread2\thread2\obj\Debug\thread2.exe
+C:\Users\123\Desktop\pp2\W1\thread2\thread2\obj\Debug\thread2.pdb
