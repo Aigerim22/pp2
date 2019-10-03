@@ -1,0 +1,10 @@
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\шарперем.помышкеименяетцветеслинажатьлевмаус\bin\Debug\Example2.exe.config
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\шарперем.помышкеименяетцветеслинажатьлевмаус\bin\Debug\Example2.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\шарперем.помышкеименяетцветеслинажатьлевмаус\bin\Debug\Example2.pdb
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\шарперем.помышкеименяетцветеслинажатьлевмаус\obj\Debug\шарперем.помышкеименяетцветеслинажатьлевмаус.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\шарперем.помышкеименяетцветеслинажатьлевмаус\obj\Debug\Example2.Form1.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\шарперем.помышкеименяетцветеслинажатьлевмаус\obj\Debug\Example2.Properties.Resources.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\шарперем.помышкеименяетцветеслинажатьлевмаус\obj\Debug\шарперем.помышкеименяетцветеслинажатьлевмаус.csproj.GenerateResource.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\шарперем.помышкеименяетцветеслинажатьлевмаус\obj\Debug\шарперем.помышкеименяетцветеслинажатьлевмаус.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\шарперем.помышкеименяетцветеслинажатьлевмаус\obj\Debug\Example2.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\шарперем.помышкеименяетцветеслинажатьлевмаус\obj\Debug\Example2.pdb

@@ -1,0 +1,10 @@
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\появлениеразноцветныхкругов\bin\Debug\example.exe.config
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\появлениеразноцветныхкругов\bin\Debug\example.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\появлениеразноцветныхкругов\bin\Debug\example.pdb
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\появлениеразноцветныхкругов\obj\Debug\появлениеразноцветныхкругов.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\появлениеразноцветныхкругов\obj\Debug\example.Form1.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\появлениеразноцветныхкругов\obj\Debug\example.Properties.Resources.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\появлениеразноцветныхкругов\obj\Debug\появлениеразноцветныхкругов.csproj.GenerateResource.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\появлениеразноцветныхкругов\obj\Debug\появлениеразноцветныхкругов.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\появлениеразноцветныхкругов\obj\Debug\example.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\появлениеразноцветныхкругов\obj\Debug\example.pdb
