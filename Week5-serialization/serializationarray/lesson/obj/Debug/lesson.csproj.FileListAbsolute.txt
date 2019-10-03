@@ -1,0 +1,7 @@
+C:\Users\123\Desktop\pp2\W1\serializationarray\lesson\bin\Debug\lesson.exe.config
+C:\Users\123\Desktop\pp2\W1\serializationarray\lesson\bin\Debug\lesson.exe
+C:\Users\123\Desktop\pp2\W1\serializationarray\lesson\bin\Debug\lesson.pdb
+C:\Users\123\Desktop\pp2\W1\serializationarray\lesson\obj\Debug\lesson.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\W1\serializationarray\lesson\obj\Debug\lesson.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\W1\serializationarray\lesson\obj\Debug\lesson.exe
+C:\Users\123\Desktop\pp2\W1\serializationarray\lesson\obj\Debug\lesson.pdb

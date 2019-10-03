@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Department xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>IT</Name>
+  <Staff>
+    <Employee>
+      <Name>Bob</Name>
+    </Employee>
+    <Employee>
+      <Name>Jim</Name>
+    </Employee>
+    <Employee>
+      <Name>Mel</Name>
+    </Employee>
+  </Staff>
+</Department>
