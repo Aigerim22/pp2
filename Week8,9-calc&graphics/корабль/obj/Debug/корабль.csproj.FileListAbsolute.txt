@@ -1,0 +1,10 @@
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\корабль\bin\Debug\корабль.exe.config
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\корабль\bin\Debug\корабль.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\корабль\bin\Debug\корабль.pdb
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\корабль\obj\Debug\корабль.csprojAssemblyReference.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\корабль\obj\Debug\корабль.Form1.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\корабль\obj\Debug\корабль.Properties.Resources.resources
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\корабль\obj\Debug\корабль.csproj.GenerateResource.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\корабль\obj\Debug\корабль.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\корабль\obj\Debug\корабль.exe
+C:\Users\123\Desktop\pp2\Week8,9-calc&graphics\Graphicsanimations\корабль\obj\Debug\корабль.pdb
